@@ -1,0 +1,2 @@
+number;query;access_token;proxy
+1;user...;;http://username:password@proxy_address:port
